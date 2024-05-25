@@ -31,8 +31,8 @@ This project involves developing a predictive model using Long Short-Term Memory
  Results:
 - The model’s performance metrics indicate its effectiveness in predicting stock price directions, providing valuable insights for potential trading strategies.
 
- Future Work:
-- Explore the inclusion of additional features such as technical indicators or sentiment analysis from news articles (I must emphasize sentiment analysis as this is key to driving of prices).
-- Fine-tune the LSTM model's parameters and architecture for improved accuracy.
+ Future Objective:
+- Explore the inclusion of additional features such as technical indicators or sentiment analysis from news articles (I must emphasize sentiment analysis as this is key to driving of prices, I already have one sentimental analysis model and looking to integrate both and see the outcomes).
+- Fine-tune the LSTM model's parameters and architecture for improved accuracy (minimize MSE and RMSE).
 - Consider extending the prediction horizon or applying the model to different stocks and markets.
 
